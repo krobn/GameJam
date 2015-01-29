@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: b82ac51166e1f6b4f897783d9c1627c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombies separados_0
+    21300002: zombies separados_1
+    21300004: zombies separados_2
+    21300006: zombies separados_3
+    21300008: zombies separados_4
+    21300010: zombies separados_5
+    21300012: zombies separados_6
+    21300014: zombies separados_7
+    21300016: zombies separados_8
+    21300018: zombies separados_9
+    21300020: zombies separados_10
+    21300022: zombies separados_11
+    21300024: zombies separados_12
+    21300026: zombies separados_13
+    21300028: zombies separados_14
+    21300030: zombies separados_15
+    21300032: zombies separados_16
+    21300034: zombies separados_17
+    21300036: zombies separados_18
+    21300038: zombies separados_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombies separados_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4369
+        width: 319
+        height: 438
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4369
+        width: 344
+        height: 433
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3930
+        width: 344
+        height: 429
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3930
+        width: 363
+        height: 420
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3492
+        width: 348
+        height: 409
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3492
+        width: 351
+        height: 414
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2991
+        width: 353
+        height: 424
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2996
+        width: 358
+        height: 429
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2476
+        width: 370
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2476
+        width: 363
+        height: 439
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 351
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2000
+        width: 353
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 346
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1518
+        width: 363
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 351
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1027
+        width: 348
+        height: 439
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 565
+        width: 339
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 565
+        width: 315
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 320
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 93
+        width: 317
+        height: 438
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

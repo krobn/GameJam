@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 771f366621e6e6a4fb66227803fc6254
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rayodestructor_0
+    21300002: rayodestructor_1
+    21300004: rayodestructor_2
+    21300006: rayodestructor_3
+    21300008: rayodestructor_4
+    21300010: rayodestructor_5
+    21300012: rayodestructor_6
+    21300014: rayodestructor_7
+    21300016: rayodestructor_8
+    21300018: rayodestructor_9
+    21300020: rayodestructor_10
+    21300022: rayodestructor_11
+    21300024: rayodestructor_12
+    21300026: rayodestructor_13
+    21300028: rayodestructor_14
+    21300030: rayodestructor_15
+    21300032: rayodestructor_19
+    21300034: rayodestructor_50
+    21300036: rayodestructor_51
+    21300038: rayodestructor_19
+    21300040: rayodestructor_20
+    21300042: rayodestructor_21
+    21300044: rayodestructor_22
+    21300046: rayodestructor_23
+    21300048: rayodestructor_24
+    21300050: rayodestructor_25
+    21300052: rayodestructor_26
+    21300054: rayodestructor_27
+    21300056: rayodestructor_28
+    21300058: rayodestructor_29
+    21300060: rayodestructor_30
+    21300062: rayodestructor_31
+    21300064: rayodestructor_32
+    21300066: rayodestructor_33
+    21300068: rayodestructor_34
+    21300070: rayodestructor_35
+    21300072: rayodestructor_36
+    21300074: rayodestructor_37
+    21300076: rayodestructor_38
+    21300078: rayodestructor_39
+    21300080: rayodestructor_40
+    21300082: rayodestructor_41
+    21300084: rayodestructor_16
+    21300086: rayodestructor_17
+    21300088: rayodestructor_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rayodestructor_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1558
+        width: 50
+        height: 89
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1563
+        width: 45
+        height: 91
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1551
+        width: 74
+        height: 111
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1539
+        width: 106
+        height: 130
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_4
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1529
+        width: 135
+        height: 147
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_5
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1514
+        width: 165
+        height: 165
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_6
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1522
+        width: 147
+        height: 147
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_7
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1512
+        width: 166
+        height: 166
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_8
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1522
+        width: 144
+        height: 147
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_9
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1515
+        width: 163
+        height: 166
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 186
+        width: 163
+        height: 686
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 186
+        width: 164
+        height: 686
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 64
+        width: 165
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 64
+        width: 164
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 64
+        width: 163
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_15
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 59
+        width: 164
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_19
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 64
+        width: 163
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 143
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_19
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 125
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_20
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 119
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_21
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 119
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_22
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 95
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_23
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 97
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_24
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_25
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 102
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_26
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 90
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_27
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 88
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_28
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 102
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_29
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 95
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_30
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 76
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_31
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 81
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_32
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 78
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_33
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 78
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_34
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 76
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_35
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 76
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_36
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 81
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_37
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 78
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_38
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 71
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_39
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 69
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_40
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 71
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_41
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 69
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_16
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 63
+        width: 202
+        height: 809
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayodestructor_17
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 67
+        width: 198
+        height: 812
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 2}
+    - name: rayodestructor_18
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 67
+        width: 213
+        height: 808
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

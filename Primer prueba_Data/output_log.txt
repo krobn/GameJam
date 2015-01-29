@@ -1,0 +1,56 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GameJam\Primer prueba_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GameJam\Primer prueba_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GameJam\Primer prueba_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GameJam\Primer prueba_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GameJam\Primer prueba_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GameJam\Primer prueba_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.375 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\GameJam\Primer prueba_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.301910 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 0.882212 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.005986 ms MarkObjects: 0.074836 ms  DeleteObjects: 0.304904 ms)
+
+UnloadTime: 0.242469 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 223.
+Total: 3.063154 ms (FindLiveObjects: 0.006414 ms CreateObjectMapping: 0.006842 ms MarkObjects: 0.090231 ms  DeleteObjects: 2.451207 ms)
+
+UnloadTime: 0.422931 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.706454 ms (FindLiveObjects: 0.015822 ms CreateObjectMapping: 0.017960 ms MarkObjects: 0.114178 ms  DeleteObjects: 0.068849 ms)
+
+UnloadTime: 0.499478 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 378.
+Total: 1.117412 ms (FindLiveObjects: 0.011546 ms CreateObjectMapping: 0.008125 ms MarkObjects: 0.079967 ms  DeleteObjects: 0.135132 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in <filename unknown>:0 
+  at SeguirPersonaje.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.583722 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 3.270985 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.075691 ms  DeleteObjects: 2.697098 ms)
+

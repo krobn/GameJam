@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: efeba7db2a23b8745ad36ed901287588
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombies separados lentos_0
+    21300002: zombies separados lentos_1
+    21300004: zombies separados lentos_2
+    21300006: zombies separados lentos_3
+    21300008: zombies separados lentos_4
+    21300010: zombies separados lentos_5
+    21300012: zombies separados lentos_6
+    21300014: zombies separados lentos_7
+    21300016: zombies separados lentos_8
+    21300018: zombies separados lentos_9
+    21300020: zombies separados lentos_10
+    21300022: zombies separados lentos_11
+    21300024: zombies separados lentos_12
+    21300026: zombies separados lentos_13
+    21300028: zombies separados lentos_14
+    21300030: zombies separados lentos_15
+    21300032: zombies separados lentos_16
+    21300034: zombies separados lentos_17
+    21300036: zombies separados lentos_18
+    21300038: zombies separados lentos_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombies separados lentos_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4369
+        width: 319
+        height: 438
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4369
+        width: 344
+        height: 433
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3930
+        width: 344
+        height: 429
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3930
+        width: 363
+        height: 420
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3492
+        width: 348
+        height: 409
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3492
+        width: 351
+        height: 414
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2991
+        width: 353
+        height: 424
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2996
+        width: 358
+        height: 429
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2476
+        width: 370
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2476
+        width: 363
+        height: 439
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 351
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2000
+        width: 353
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 346
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1518
+        width: 363
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 351
+        height: 443
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1027
+        width: 348
+        height: 439
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 565
+        width: 339
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 565
+        width: 315
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 320
+        height: 434
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombies separados lentos_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 93
+        width: 317
+        height: 438
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
